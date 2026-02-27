@@ -1,0 +1,22 @@
+main #btn{
+    padding: 20px 10px;
+    background-color: royalblue;
+    text-shadow: 2px;
+    border-radius: 8px;
+    border: 3px solid black;
+    position: relative;
+    z-index: 9;
+    font-size: 100px;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+
+}
+main{
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;
+    position: relative;
+    background-color: #9a9191;
+}
